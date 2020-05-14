@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.webcomm.poc.eventstreams</groupId>
-	<artifactId>eventstream</artifactId>
+	<artifactId>eventstream_consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>eventstream</name>
